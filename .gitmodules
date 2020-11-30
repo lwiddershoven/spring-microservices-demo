@@ -1,0 +1,3 @@
+[submodule "adservice"]
+	path = adservice
+	url = https://github.com/lwiddershoven/adservice

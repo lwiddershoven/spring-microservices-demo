@@ -90,3 +90,8 @@ Cleanup: docker system prune -a
 docker images
 
 customize image name: $ mvn spring-boot:build-image -Dspring-boot.build-image.imageName=example.com/library/my-app:v1
+
+
+Use unrelated projects for ease of code management and deployment (faster cicd) but do group them here for easier demo):
+ git submodule add https://github.com/lwiddershoven/adservice
+
