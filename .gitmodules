@@ -4,3 +4,9 @@
 [submodule "marketing-api"]
 	path = marketing-api
 	url = https://github.com/lwiddershoven/marketing-api
+[submodule "recommendationservice"]
+	path = recommendationservice
+	url = https://github.com/lwiddershoven/recommendationservice
+[submodule "productcatalogservice"]
+	path = productcatalogservice
+	url = https://github.com/lwiddershoven/productcatalogservice
