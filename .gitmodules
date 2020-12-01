@@ -1,3 +1,6 @@
 [submodule "adservice"]
 	path = adservice
 	url = https://github.com/lwiddershoven/adservice
+[submodule "marketing-api"]
+	path = marketing-api
+	url = https://github.com/lwiddershoven/marketing-api
